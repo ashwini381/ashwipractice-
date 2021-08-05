@@ -4,6 +4,8 @@ class sample
 	{
 		System.out.println("God");
 		System.out.println("is");
+		System.out.println("there");
+
 
 	}
 }
